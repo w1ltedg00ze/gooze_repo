@@ -1,0 +1,41 @@
+*{
+    background-color: burlywood;
+    background-image: url(kepek/egyiptomihatter.jpg);
+    color: brown;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    
+}
+div{
+    background-color: burlywood;
+}
+p{
+    text-align: justify;
+    
+}
+h1{
+    
+    text-align: center;
+
+}
+
+h2{
+    border-bottom: solid;
+    border-top: solid;
+    text-align: center;
+    padding-block: 12px;
+
+}
+
+#nilus{
+    float: right;
+    border: dashed;
+    padding: 5px;
+}
+
+#karnak{
+    float: left;
+    border: dashed;
+    padding: 5px   ;
+}
